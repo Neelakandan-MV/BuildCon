@@ -15,6 +15,6 @@ Build Con is a fully functional website developed for a team of architects. The 
 - Bootstrap
 
 ## How to Run Locally
-1. Clone the repository: git clone https://github.com/yourusername/build-con.git
+1. Clone the repository: git clone https://github.com/Neelakandan-MV/build-con.git
 2. Open the index.html file in a browser to view the website.
    
